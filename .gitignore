@@ -1,0 +1,20 @@
+# Dependency directories
+/node_modules/
+
+# Generated files
+/invoices/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# IDE
+.idea
+
+# For the maniacs between us
+.vscode
